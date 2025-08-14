@@ -85,16 +85,16 @@ erDiagram
     TRIP_DETAILS }o--|| LOCATION_TABLE : "Pickup Location"
     TRIP_DETAILS }o--|| LOCATION_TABLE : "Drop-Off Location"
 
-## Output
-* Overview Analysis
-![Screenshot](Output_Images/Screenshot(1).png)
+## 📊 Output
 
+* **Overview Analysis**  
+![Overview](Output_Images/Screenshot(1).png)
 
-* Time Analysis
-![Screenshot](Output_Images/Screenshot(2).png)
+* **Time Analysis**  
+![Time](Output_Images/Screenshot(2).png)
 
+* **Details**  
+![Details](Output_Images/Screenshot(3).png)
 
-* Details
-![Screenshot](Output_Images/Screenshot(3).png)
 
 
