@@ -85,7 +85,7 @@ erDiagram
     TRIP_DETAILS }o--|| LOCATION_TABLE : "Pickup Location"
     TRIP_DETAILS }o--|| LOCATION_TABLE : "Drop-Off Location"
 
-## 📊 Output
+## Output
 
 ![Overview](Output_Images/Screenshot(1).png)
 
