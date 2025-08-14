@@ -87,13 +87,10 @@ erDiagram
 
 ## 📊 Output
 
-* **Overview Analysis**  
 ![Overview](Output_Images/Screenshot(1).png)
 
-* **Time Analysis**  
 ![Time](Output_Images/Screenshot(2).png)
 
-* **Details**  
 ![Details](Output_Images/Screenshot(3).png)
 
 
